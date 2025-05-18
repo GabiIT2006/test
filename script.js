@@ -1,0 +1,1 @@
+window.alert("Die Seite ist im Berarbeitung");
